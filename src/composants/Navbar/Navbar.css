@@ -1,0 +1,20 @@
+.navBarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.linkNavContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.shopContainer {
+  display: flex;
+  justify-content: flex-end;
+}

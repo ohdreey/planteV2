@@ -1,0 +1,30 @@
+.category {
+  margin-bottom: 2em;
+}
+.categoryTitle {
+  display: flex;
+  justify-content: space-around;
+  font-weight: normal;
+  color: var(--buttonColor);
+  padding-bottom: 2em;
+}
+
+.categoryOI {
+  display: flex;
+  justify-content: space-evenly;
+}
+.categoryWrap {
+  width: 20%;
+  padding-bottom: 2em;
+}
+.categoryOI {
+}
+.categoryImg1 {
+  width: 100%;
+  background-color: rgb(237, 242, 230);
+}
+
+.categoryImg2 {
+  width: 102%;
+  background-color: rgb(235, 238, 242);
+}

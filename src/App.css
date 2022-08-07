@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@600&display=swap');
+:root {
+  --bgcolor: rgb(255, 255, 255);
+  --text-color-light: #011c2e;
+  --body-font: 'Signika', sans-serif;
+  --buttonColor: rgb(11, 143, 99);
+}
+
+html,
+body {
+  margin-left: 2%;
+  margin-right: 2%;
+  height: 100vh;
+  width: auto;
+}
+
+body {
+  background: var(--bgcolor);
+  color: var(--text-color-light);
+  font-family: var(--body-font);
+}
